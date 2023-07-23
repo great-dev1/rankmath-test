@@ -1,0 +1,210 @@
+{
+  "BTCAmount": "3.529020",
+  "totalAmount": "19.153",
+  "discount": "2.32",
+  "oneBTCPrice": "5.483",
+  "Day": [
+    {
+      "name": "Page A",
+      "uv": 1500,
+      "pv": 2400,
+      "amt": 2400,
+      "dotVisible": false
+    },
+    {
+      "name": "Page B",
+      "uv": 2400,
+      "pv": 1398,
+      "amt": 2210,
+      "dotVisible": false
+    },
+    {
+      "name": "Page C",
+      "uv": 2500,
+      "pv": 9800,
+      "amt": 2290,
+      "dotVisible": false
+    },
+    {
+      "name": "Page D",
+      "uv": 2200,
+      "pv": 3908,
+      "amt": 2000,
+      "dotVisible": false
+    },
+    {
+      "name": "Page E",
+      "uv": 2700,
+      "pv": 4800,
+      "amt": 2181,
+      "dotVisible": false
+    },
+    {
+      "name": "Page F",
+      "uv": 3200,
+      "pv": 3800,
+      "amt": 2500,
+      "dotVisible": false
+    },
+    {
+      "name": "Page G",
+      "uv": 2900,
+      "pv": 4300,
+      "amt": 2100,
+      "dotVisible": true
+    }
+  ],
+  "Week": [
+    {
+      "name": "Page A",
+      "uv": 500,
+      "pv": 2400,
+      "amt": 2400,
+      "dotVisible": false
+    },
+    {
+      "name": "Page B",
+      "uv": 1500,
+      "pv": 1398,
+      "amt": 2210,
+      "dotVisible": false
+    },
+    {
+      "name": "Page C",
+      "uv": 2500,
+      "pv": 1500,
+      "amt": 2290,
+      "dotVisible": false
+    },
+    {
+      "name": "Page D",
+      "uv": 2200,
+      "pv": 3908,
+      "amt": 2000,
+      "dotVisible": false
+    },
+    {
+      "name": "Page E",
+      "uv": 2700,
+      "pv": 4800,
+      "amt": 2181,
+      "dotVisible": false
+    },
+    {
+      "name": "Page F",
+      "uv": 2900,
+      "pv": 3800,
+      "amt": 2500,
+      "dotVisible": false
+    },
+    {
+      "name": "Page G",
+      "uv": 2900,
+      "pv": 4300,
+      "amt": 2100,
+      "dotVisible": true
+    }
+  ],
+  "Month": [
+    {
+      "name": "Page A",
+      "uv": 7500,
+      "pv": 3800,
+      "amt": 2400,
+      "dotVisible": false
+    },
+    {
+      "name": "Page B",
+      "uv": 2400,
+      "pv": 1398,
+      "amt": 3800,
+      "dotVisible": false
+    },
+    {
+      "name": "Page C",
+      "uv": 2500,
+      "pv": 9800,
+      "amt": 2290,
+      "dotVisible": false
+    },
+    {
+      "name": "Page D",
+      "uv": 2200,
+      "pv": 3908,
+      "amt": 2000,
+      "dotVisible": false
+    },
+    {
+      "name": "Page E",
+      "uv": 2700,
+      "pv": 4800,
+      "amt": 2181,
+      "dotVisible": false
+    },
+    {
+      "name": "Page F",
+      "uv": 3200,
+      "pv": 3800,
+      "amt": 2500,
+      "dotVisible": false
+    },
+    {
+      "name": "Page G",
+      "uv": 2900,
+      "pv": 4300,
+      "amt": 2100,
+      "dotVisible": true
+    }
+  ],
+  "Year": [
+    {
+      "name": "Page A",
+      "uv": 2500,
+      "pv": 2400,
+      "amt": 2400,
+      "dotVisible": false
+    },
+    {
+      "name": "Page B",
+      "uv": 2400,
+      "pv": 1398,
+      "amt": 2210,
+      "dotVisible": false
+    },
+    {
+      "name": "Page C",
+      "uv": 2500,
+      "pv": 9800,
+      "amt": 2290,
+      "dotVisible": false
+    },
+    {
+      "name": "Page D",
+      "uv": 4500,
+      "pv": 3908,
+      "amt": 2000,
+      "dotVisible": false
+    },
+    {
+      "name": "Page E",
+      "uv": 2700,
+      "pv": 4800,
+      "amt": 2181,
+      "dotVisible": false
+    },
+    {
+      "name": "Page F",
+      "uv": 3200,
+      "pv": 3800,
+      "amt": 2500,
+      "dotVisible": false
+    },
+    {
+      "name": "Page G",
+      "uv": 2900,
+      "pv": 4300,
+      "amt": 2100,
+      "dotVisible": true
+    }
+  ]
+}

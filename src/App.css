@@ -1,0 +1,108 @@
+.app-container {
+  width: 100%;
+  margin: auto;
+}
+
+.app-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.tab {
+  color: #aeb8c4;
+  padding: 4px 12px;
+  min-width: 50px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 1rem;
+}
+
+.tab.active {
+  color: white;
+  background: #aeb8c4;
+}
+
+.tabs {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0.75rem 0;
+}
+
+.trade-btns {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.trade-btn {
+  padding: 0.75rem;
+  background-color: white;
+  border-radius: 1rem;
+  width: 50%;
+}
+
+.trade-btn.buy {
+  margin-right: 1.75rem;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    display: none;
+  }
+
+  100% {
+    opacity: 1;
+    display: block;
+  }
+}
+
+.fadein {
+  animation: fadeIn 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    display: block;
+  }
+
+  100% {
+    opacity: 0;
+    height: 0px;
+  }
+}
+
+.fadeout {
+  animation: fadeOut 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@media (min-width: 640px) {
+  .app-container {
+      max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .app-container {
+      max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .app-container {
+      max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .app-container {
+      max-width: 1280px;
+  }
+}

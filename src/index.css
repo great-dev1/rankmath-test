@@ -1,0 +1,35 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'SFPro';
+  src: url(/src/assets/fonts/sfpro.ttf);
+}
+
+@font-face {
+  font-family: 'MyriadPro';
+  src: url(/src/assets/fonts/Myriad\ Pro\ Regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f6f9;
+  font-family: 'SFPro', sans-serif;
+  color: #4c5968;
+  line-height: inherit;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}

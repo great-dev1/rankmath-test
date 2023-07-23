@@ -1,0 +1,38 @@
+.context-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #000000b5;
+  z-index: 2;
+}
+
+.contextmenu {
+  position: absolute;
+  top: 60px;
+  right: 35px;
+  background-color: white;
+  border-radius: 0.75rem;
+  padding-left: 1rem;
+  width: 13rem;
+  color: black;
+  z-index: 3;
+}
+
+.contextmenu .item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem 0.5rem 0;
+  border-bottom: solid 1px rgb(156 163 175);
+  width: 100%;
+}
+
+.contextmenu .item.red {
+  color: #dd4c52;
+}
+
+.contextmenu .item.last {
+  border-bottom: unset;
+}
